@@ -32,7 +32,7 @@ You can find instamsg starting quick guide here. (http://instamsg.io/docs/quick-
   
 ###   Create an InstaMsg account & get API Keys
 
-[create an Instamsg account](https://platform.instamsg.io/signup) and [follow these steps to get](http://instamsg.io/docs/quick-start) your  _`client_id`_ & _`client_secret`_ .
+[create an Instamsg account](https://platform.instamsg.io/signup) and [follow these steps to get](http://instamsg.io/docs/quick-start) your  _`client_id`_ & _`client_auth_token`_ .
 
 ###   Authenticating your credentials
 
